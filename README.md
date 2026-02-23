@@ -1,5 +1,5 @@
 ### Olá eu sou o Lucas Nunes ✋
-#### Desenvolvedor de Software com 2 anos de experiência.
+#### Desenvolvedor de Software com 3 anos de experiência.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nunes-1587401b9/)<br/>
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=JudsNunes&show_icons=true&theme=dracula)
