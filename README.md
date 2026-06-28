@@ -1,5 +1,6 @@
 ### Olá eu sou o Lucas Nunes ✋
-#### Desenvolvedor de Software com 3 anos de experiência.
+#### Engenheiro de Software Java com 3 anos de experiência.
+#### Atualmente Estudando para se tornar um Arquiteto de Software e FullStack em Angular e Java
 #### Formado Análise e Desenvolvimento de Sistemas
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-nunes-1587401b9/)<br/>
